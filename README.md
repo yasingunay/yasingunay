@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **Web Development, Cybersecurtiy(Basics)**
 
-- 👨‍💻 All of my projects are available at [https://yasingunay.github.io/portfolio/](https://yasingunay.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://yasingunay.github.io/portfolio/)
 
 - 📫 How to reach me **yasingunaydev@gmail.com**
 
-- 📄 Know about my experiences [https://yasingunay.github.io/portfolio/assets/resume.pdf](https://yasingunay.github.io/portfolio/assets/resume.pdf)
+- 📄 Know about my experiences [Resume](https://yasingunay.github.io/portfolio/assets/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
