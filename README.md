@@ -2,7 +2,7 @@
 <h3 >Law Graduate | Self-Taught | Motivated </h3>
 <h3 >Software Developer</h3>
 
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 - 🌱 I’m currently learning **Web Development, Cybersecurtiy(Basics)**
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **yasingunaydev@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://yasingunay.github.io/portfolio/assets/resume.pdf)
+- 📄 Check out my [Resume](https://yasingunay.github.io/portfolio/assets/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
