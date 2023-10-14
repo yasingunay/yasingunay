@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yasin</h1>
-<h3 align="center">Law Graduate | Self-Taught | Motivated </h3>
-<h3 align="center">Software Developer</h3>
+<h1 >Hi 👋, I'm Yasin</h1>
+<h3 >Law Graduate | Self-Taught | Motivated </h3>
+<h3 >Software Developer</h3>
 
 ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
