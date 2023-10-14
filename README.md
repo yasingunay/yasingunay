@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development, Cybersecurtiy(Basics)**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://yasingunay.github.io/portfolio/)
+- 👨‍💻 Most of my projects are available at [Portfolio](https://yasingunay.github.io/portfolio/)
 
 - 📫 How to reach me **yasingunaydev@gmail.com**
 
