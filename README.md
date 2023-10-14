@@ -2,6 +2,8 @@
 <h3 align="center">Law Graduate | Self-Taught | Motivated </h3>
 <h3 align="center">Software Developer</h3>
 
+![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
 - 🌱 I’m currently learning **Web Development, Cybersecurtiy(Basics)**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://yasingunay.github.io/portfolio/)
