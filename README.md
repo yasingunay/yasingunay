@@ -1,4 +1,4 @@
-<h1 >Hi 👋, I'm Yasin</h1>
+<img src="Yasin Günay.png">
 <h3 >Law Graduate | Self-Taught | Motivated </h3>
 <h3 >Software Developer</h3>
 
