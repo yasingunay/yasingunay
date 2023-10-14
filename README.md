@@ -2,7 +2,8 @@
 <h3 >Law Graduate | Self-Taught | Motivated </h3>
 <h3 >Software Developer</h3>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="360px"/>
+
 
 - 🌱 I’m currently learning **Web Development, Cybersecurtiy(Basics)**
 
