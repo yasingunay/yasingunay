@@ -1,4 +1,4 @@
-<img src="Yasin Günay.png">
+<img src="ysngny.png">
 <h3 >Law Graduate | Self-Taught | Motivated </h3>
 <h3 >Software Developer</h3>
 
