@@ -6,7 +6,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="360px"/>
 
 
-- 🌱 I’m currently learning **Django, Cybersecurtiy(Basics)**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 Most of my projects are available at [Portfolio](https://yasingunay.github.io/portfolio/)
 
