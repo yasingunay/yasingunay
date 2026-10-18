@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Django, HTMX, Data, APIs**
 
-- 📫 How to reach me **yasingunaydev@gmail.com**
-
 - 📄 Check out my [Resume](https://yasingunay.github.io/portfolio/assets/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
